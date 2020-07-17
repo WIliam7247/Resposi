@@ -1,0 +1,8 @@
+{
+	"name": "my-server-whatever",
+	"main": "server.js",
+	"dependencies": {
+		"express": "latest",
+		"express-http-proxy": "latest"
+	}
+}
